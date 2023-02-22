@@ -2,7 +2,7 @@
 Embedded projects in c
 
 
-# FSM traffice lights 
+# FSM traffic lights 
 
 Code was completed during fall 2022 
 code was skeleton code and needed to be
