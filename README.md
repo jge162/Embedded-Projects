@@ -19,7 +19,7 @@
 <img width="400" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
 
 >[!NOTE]\
->Objective of this lab was to convert an ADC raw data to a digital
+>Objective of this lab was to convert an ADC raw data to a digital signal. 
 
 ---
 
