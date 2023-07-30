@@ -20,6 +20,7 @@
 ### DAC
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
+
 >[!NOTE]\
 >Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
 
