@@ -4,8 +4,7 @@ Embedded projects in c
 
 # FSM traffic lights 
 
-![green (1)](https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0)
-
+<img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0">
 
 # ADC 
 
@@ -13,7 +12,7 @@ Embedded projects in c
 
 # DAC
 
-![piano](https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201)
+<img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
 
 
 Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
