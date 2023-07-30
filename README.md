@@ -12,12 +12,16 @@
 >[!NOTE]\
 >Objective of this lab was to simulate a traffic light using an array of structs in Embedded C.
 
+---
+
 ## [ADC](https://github.com/jge162/450-EmbeddedProjects/tree/main/DAC) 
 
 <img width="400" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
 
 >[!NOTE]\
->Objective of this lab was to convert an ADC raw data to a digital 
+>Objective of this lab was to convert an ADC raw data to a digital
+
+---
 
 ## [DAC](https://github.com/jge162/450-EmbeddedProjects/tree/main/DAC)
 
@@ -25,6 +29,8 @@
 
 >[!NOTE]\
 >Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output.
+
+---
 
 ## Low Pass Filter, IDEs | [Matlab® ](https://www.mathworks.com/campaigns/offers/matlab-toolbox-price-request.html?gclid=CjwKCAjwlJimBhAsEiwA1hrp5rSr0l8UlgugwHfy7GOynau--l2HANZKVHJ7qxQUpxpicyEPC6TXthoCjP8QAvD_BwE&ef_id=CjwKCAjwlJimBhAsEiwA1hrp5rSr0l8UlgugwHfy7GOynau--l2HANZKVHJ7qxQUpxpicyEPC6TXthoCjP8QAvD_BwE:G:s&s_kwcid=AL!8664!3!606527715283!p!!g!!get%20matlab&s_eid=ppc_62715809977&q=get%20matlab) and [Code Composer Studio® ](https://www.ti.com/tool/CCSTUDIO)
 
