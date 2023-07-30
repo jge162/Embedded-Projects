@@ -1,7 +1,9 @@
 # Embedded Projects
 
 >[!IMPORTANT]\
->Embedded projects in c
+>Embedded C projects completed using [Code Composer Sudio](https://www.ti.com/tool/CCSTUDIO)
+
+---
 
 #### FSM traffic lights 
 
