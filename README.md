@@ -9,11 +9,17 @@
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0">
 
+>[!NOTE]\
+>Objective of this lab was to simulate a traffic light using an array of structs in Embedded C.
+
 ---
 
 ### ADC 
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
+
+>[!NOTE]\
+>Objective of this lab was to convert an ADC raw data to a digital 
 
 ---
 
@@ -22,7 +28,7 @@
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
 
 >[!NOTE]\
->Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
+>Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output.
 
 ---
 
@@ -35,5 +41,6 @@
 >[!NOTE]\
 >Low pass filter created in matlab, ran in code composer studio in c language
 
-Designed with 💙 by [jermyaih](https://github.com/jge162)
+>[!WARNING]\
+>Designed with 💙 by [jermyaih](https://github.com/jge162)
 
