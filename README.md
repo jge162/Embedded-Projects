@@ -5,7 +5,7 @@
 
 ---
 
-#### FSM traffic lights 
+#### FSM Traffic Lights 
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0">
 
@@ -20,24 +20,12 @@
 ### DAC
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
-
----
-
 >[!NOTE]\
 >Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
 
-Using Code Composer Studio & MSP432 microcontroller, left out systic file since was not my code.
-```c
-void main(void) {
-  char piano_note;
-  Piano_Init(); //Initializing Piano_Init
-  Sound_Init(); //Initializing Sound_Init
-  while (1) {
-    piano_note = Piano_In();
- ```
+---
 
-# LowPassFilter_matlab
-
+### LowPassFilter_matlab
 >[!NOTE]\
 >Low pass filter created in matlab, ran in code composer studio in c language
 
