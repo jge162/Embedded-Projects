@@ -1,21 +1,22 @@
 # Embedded Projects
-Embedded projects in c
 
+>[!IMPORTANT]\
+>Embedded projects in c
 
-# FSM traffic lights 
+### FSM traffic lights 
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0">
 
-# ADC 
+### ADC 
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
 
-# DAC
+### DAC
 
 <img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
 
-
-Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
+>[!NOTE]\
+>Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
 
 Using Code Composer Studio & MSP432 microcontroller, left out systic file since was not my code.
 ```c
@@ -28,8 +29,9 @@ void main(void) {
  ```
 
 # LowPassFilter_matlab
-Low pass filter created in matlab, ran in code composer studio in c language
 
+>[!NOTE]\
+>Low pass filter created in matlab, ran in code composer studio in c language
 
 <img width="656" alt="Screenshot 2023-01-20 at 8 52 01 PM" src="https://user-images.githubusercontent.com/31228460/213844076-14f5232e-3c33-467f-b162-d6c46fa99c7e.png">
 <img width="584" alt="Screenshot 2023-01-20 at 8 52 18 PM" src="https://user-images.githubusercontent.com/31228460/213844077-d4f0ef28-422d-4092-9926-9f8ec144bec5.png">
