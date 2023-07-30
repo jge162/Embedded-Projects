@@ -4,14 +4,18 @@ Embedded projects in c
 
 # FSM traffic lights 
 
-Code was completed during fall 2022 
-code was skeleton code and needed to be
-completed. 
+![green (1)](https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0)
 
-### ADC 
-![IMG_8507](https://user-images.githubusercontent.com/31228460/214196102-c94d1ddc-b9cd-44d2-8565-9186ade348f1.jpg)
+
+# ADC 
+
+<img width="591" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
 
 # DAC
+
+![piano](https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201)
+
+
 Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output
 
 Using Code Composer Studio & MSP432 microcontroller, left out systic file since was not my code.
