@@ -27,9 +27,11 @@
 ---
 
 ### LowPassFilter_matlab
->[!NOTE]\
->Low pass filter created in matlab, ran in code composer studio in c language
 
+Designed with 💙 by [jermyaih](https://github.com/jge162)
 <img width="656" alt="Screenshot 2023-01-20 at 8 52 01 PM" src="https://user-images.githubusercontent.com/31228460/213844076-14f5232e-3c33-467f-b162-d6c46fa99c7e.png">
 <img width="584" alt="Screenshot 2023-01-20 at 8 52 18 PM" src="https://user-images.githubusercontent.com/31228460/213844077-d4f0ef28-422d-4092-9926-9f8ec144bec5.png">
 <img width="584" alt="Screenshot 2023-01-20 at 8 52 27 PM" src="https://user-images.githubusercontent.com/31228460/213844078-aef55cc3-875a-408b-b26f-478a4072e308.png">
+
+>[!NOTE]\
+>Low pass filter created in matlab, ran in code composer studio in c language
