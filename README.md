@@ -1,7 +1,7 @@
 # Embedded Projects
 
 >[!IMPORTANT]\
->Embedded C projects completed using [Code Composer Sudio® ](https://www.ti.com/tool/CCSTUDIO)
+>Embedded C projects completed using [Code Composer Sudio® ](https://www.ti.com/tool/CCSTUDIO) & [Matlab® ](https://www.mathworks.com/campaigns/offers/matlab-toolbox-price-request.html?gclid=CjwKCAjwlJimBhAsEiwA1hrp5rSr0l8UlgugwHfy7GOynau--l2HANZKVHJ7qxQUpxpicyEPC6TXthoCjP8QAvD_BwE&ef_id=CjwKCAjwlJimBhAsEiwA1hrp5rSr0l8UlgugwHfy7GOynau--l2HANZKVHJ7qxQUpxpicyEPC6TXthoCjP8QAvD_BwE:G:s&s_kwcid=AL!8664!3!606527715283!p!!g!!get%20matlab&s_eid=ppc_62715809977&q=get%20matlab)
 
 ---
 
