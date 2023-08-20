@@ -22,6 +22,10 @@ https://github.com/jge162/Embedded-Projects/assets/31228460/c8c4ebb1-09f6-4549-a
 
 <img width="400" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/9f0a2bf4-6e21-4964-93be-4f508d48133f">
 
+
+https://github.com/jge162/Embedded-Projects/assets/31228460/e16c8a12-9be8-4498-82af-42a9d69e5b56
+
+
 >[!NOTE]\
 >Objective of this lab was to convert an ADC raw data to a digital signal. 
 
