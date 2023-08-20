@@ -9,6 +9,10 @@
 
 <img width="400" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/10c9b9b8-688b-41fa-bfdf-d1a9cbefc6a0">
 
+
+https://github.com/jge162/Embedded-Projects/assets/31228460/c8c4ebb1-09f6-4549-a423-578d3b328bca
+
+
 >[!NOTE]\
 >Objective of this lab was to simulate a traffic light using an array of structs in Embedded C.
 
