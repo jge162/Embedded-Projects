@@ -34,6 +34,7 @@ https://github.com/jge162/Embedded-Projects/assets/31228460/e16c8a12-9be8-4498-8
 ## [DAC](https://github.com/jge162/450-EmbeddedProjects/tree/main/DAC)
 
 <img width="400" alt="LCD" src="https://github.com/jge162/450-EmbeddedProjects/assets/31228460/cbc5f85d-f038-4146-b3fb-88a805a3f201">
+![IMG_6699](https://github.com/jge162/Embedded-Projects/assets/31228460/89d5017a-594f-4227-950b-73829d39fed0)
 
 >[!NOTE]\
 >Objective of this lab is to take three digital input notes from a piano key and convert them into a 4-bit digital output.
