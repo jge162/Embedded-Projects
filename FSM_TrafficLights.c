@@ -9,7 +9,7 @@
 struct State {
  uint32_t Out[2]; // Out ->unsigned 32 bit integers
  uint32_t Time; // 10 ms unsigned 32 bit integers
- const struct State *Next[15]; // 3 inputs and 8 outputs total of 11 FSM
+ const struct State *Next[11]; // 3 inputs and 8 outputs total of 11 FSM
 states
 };
 //----------------------------------------------------------------------------
@@ -62,7 +62,7 @@ State_t FSM[15] = { // Need to use specific bits per operation, so take note
 void main(void) {
 State_t *Pt; // Pointer
 Switch_Inputs(); // INPUTS for bread board and
-micro-controller ORR together here and LSL for p1.1
+//micro-controller ORR together here and LSL for p1.1
 GPIO_Init_p1_p2(); // Call into main Inits for GPIOs
 SysTick_Init(); // Call into main SysTick
 GPIO_Init_p4(); // Call into main GPIO Outputs
@@ -73,6 +73,6 @@ P4->OUT = (P4->OUT&~0x3F)|(Pt->Out[0]); // Set LEDs on Bread board
 P2->OUT = (P2->OUT&~0x3F)|(Pt->Out[1]); // Set LEDs Micro-controller
 SysTick_Wait10ms(Pt->Time); //SysTic is 10 ms
 Pt = Pt->Next[Input]; // Input here, generates next state based on switch
-pressed (p6.0, p6.1 or p1.1)
+//pressed (p6.0, p6.1 or p1.1)
  }
 }
